@@ -1,0 +1,41 @@
+******** xxx ********
+******************* GDI DUMP => Date : Sat Aug 10 18:51:20 2024
+
+cErrLog::SetLogTraceOn
+STLinkUSBDriver.dll loaded
+ST-Link/V2 device detected
+Target voltage detected: 3.542448
+W at 0xe000edf0: 0xa05f0003
+R at 0xe000edf0: 0x00030003
+Driving NRST low
+Activating vector catch system
+W at 0xe000edfc: 0x00000001
+R at 0xe000edf0: 0x02010001
+R at 0xe000edf0: 0x02010001
+Driving NRST high
+R at 0xe000edf0: 0x02030003
+R at 0xe000edf0: 0x00030003
+W regId 16: 0x01000000
+W at 0xe000edfc: 0x00000000
+R at 0xe000ed00: 0x00000041
+R at 0xe0042000: 0x00000013
+R at 0xe0042000: 0x00000013
+R at 0xe0042008: 0x00001800
+W at 0xe0042008: 0x00001800
+R at 0xe000ed00: 0x00000041
+R at 0xe0042000: 0x00000013
+R at 0xe0042000: 0x00000013
+W at 0xe000edf0: 0xa05f0003
+R at 0xe000edf0: 0x00030003
+R at 0xe000edf0: 0x00030003
+Activating vector catch system
+W at 0xe000edfc: 0x00000001
+Sys reset req
+W at 0xe000ed0c: 0x05fa0004
+R at 0xe000ed0c: 0xfa050000
+R at 0xe000edf0: 0x02030003
+R at 0xe000edf0: 0x00030003
+W regId 16: 0x01000000
+W at 0xe000edfc: 0x00000000
+W at 0xe000edf0: 0xa05f0001
+**** End of GDI DUMP ****
