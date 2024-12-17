@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=DIR1 Pin=U4-41
+Removed Pin From Net: NetName=PULSE1 Pin=U4-42
+Added Pin To Net: NetName=PULSE1 Pin=U4-41
+Added Pin To Net: NetName=DIR1 Pin=U4-42
+Added Member To Class: ClassName=schematic Member=Component S1 SW-SMD
+Added Member To Class: ClassName=schematic Member=Component S2 SW-SMD
+Added Member To Class: ClassName=schematic Member=Component U4 STM32F103C8T6

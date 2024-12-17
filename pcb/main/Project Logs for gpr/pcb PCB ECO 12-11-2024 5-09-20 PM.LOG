@@ -1,0 +1,622 @@
+Added Component: Designator=C1(C_6.3x12)
+Add component (AddParameter): Name = "Code"; Value = "1402-225"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C_6.3x12)
+Add component (AddParameter): Name = "Code"; Value = "1402-225"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1436-100"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1436-100"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C8X12mm)
+Add component (AddParameter): Name = "Code"; Value = "1402-231"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C_6.3x12)
+Add component (AddParameter): Name = "Code"; Value = "1402-225"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C_8X12)
+Add component (AddParameter): Name = "Code"; Value = "1401-352"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C_8X12)
+Add component (AddParameter): Name = "Code"; Value = "1401-352"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Added Component: Designator=C16(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C8X12mm)
+Add component (AddParameter): Name = "Code"; Value = "1402-231"; VariantName = "[No Variations]"
+Added Component: Designator=C18(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Added Component: Designator=C19(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Added Component: Designator=C20(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Added Component: Designator=C21(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Added Component: Designator=C22(C8X12mm)
+Add component (AddParameter): Name = "Code"; Value = "1402-231"; VariantName = "[No Variations]"
+Added Component: Designator=D1(D_SMA)
+Add component (AddParameter): Name = "Code"; Value = "2005-008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SS34"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DO_241AC_SMA_MFG)
+Add component (AddParameter): Name = "Code"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "TranLuyen"; VariantName = "[No Variations]"
+Added Component: Designator=D3(D_SMA)
+Add component (AddParameter): Name = "Code"; Value = "2005-008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SS34"; VariantName = "[No Variations]"
+Added Component: Designator=D4(DO_241AC_SMA_MFG)
+Add component (AddParameter): Name = "Code"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "TranLuyen"; VariantName = "[No Variations]"
+Added Component: Designator=D5(D_SMA)
+Add component (AddParameter): Name = "Code"; Value = "2005-008"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOT223-4N)
+Add component (AddParameter): Name = "Code"; Value = "5102-034"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(TO-263-2 - via)
+Add component (AddParameter): Name = "Code"; Value = "5101-076-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "TranLuyen"; VariantName = "[No Variations]"
+Added Component: Designator=J1(CONN KF-5.08-2P-R + 3d)
+Add component (AddParameter): Name = "Code"; Value = "3524-011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "TranLuyen"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED 0805 Red)
+Add component (AddParameter): Name = "Code"; Value = "8600-017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "TranLuyen"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED 0805 Green)
+Add component (AddParameter): Name = "Code"; Value = "8600-027"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "TranLuyen"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED 0805 Blue)
+Add component (AddParameter): Name = "Code"; Value = "8600-019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "TranLuyen"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED 0805 Green)
+Add component (AddParameter): Name = "Code"; Value = "8600-027"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "TranLuyen"; VariantName = "[No Variations]"
+Added Component: Designator=LED5(LED 0805 Green)
+Add component (AddParameter): Name = "Code"; Value = "8600-027"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "TranLuyen"; VariantName = "[No Variations]"
+Added Component: Designator=P1(XH2.54_4P)
+Add component (AddParameter): Name = "Code"; Value = "3509-003"; VariantName = "[No Variations]"
+Added Component: Designator=P2(XH2.54_4P)
+Add component (AddParameter): Name = "Code"; Value = "3509-003"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR_M_1X4)
+Add component (AddParameter): Name = "Code"; Value = "3504-028 * 0.1"; VariantName = "[No Variations]"
+Added Component: Designator=P4(XH2.54_4P)
+Add component (AddParameter): Name = "Code"; Value = "3509-003"; VariantName = "[No Variations]"
+Added Component: Designator=P5(XH2.54_4P_RA)
+Add component (AddParameter): Name = "Code"; Value = "3509-012"; VariantName = "[No Variations]"
+Added Component: Designator=P6(XH2.54_4P_RA)
+Add component (AddParameter): Name = "Code"; Value = "3509-012"; VariantName = "[No Variations]"
+Added Component: Designator=P7(XH2.54_4P_RA)
+Add component (AddParameter): Name = "Code"; Value = "3509-012"; VariantName = "[No Variations]"
+Added Component: Designator=P8(XH2.54_2P_RA)
+Add component (AddParameter): Name = "Code"; Value = "3509-010"; VariantName = "[No Variations]"
+Added Component: Designator=P9(XH2.54_2P_RA)
+Add component (AddParameter): Name = "Code"; Value = "3509-010"; VariantName = "[No Variations]"
+Added Component: Designator=P10(XH2.54_2P_RA)
+Add component (AddParameter): Name = "Code"; Value = "3509-010"; VariantName = "[No Variations]"
+Added Component: Designator=P11(XH2.54_3P_RA)
+Add component (AddParameter): Name = "Code"; Value = "3509-011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-094"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-104"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-094"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-078"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-078"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-103"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-103"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-078"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-103"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-103"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-103"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-094"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-103"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-094"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SW-SMD 3x6 mm)
+Add component (AddParameter): Name = "Code"; Value = "3606-006"; VariantName = "[No Variations]"
+Added Component: Designator=S2(SW-SMD 3x6 mm)
+Add component (AddParameter): Name = "Code"; Value = "3606-006"; VariantName = "[No Variations]"
+Added Component: Designator=S3(SW-SMD 3x6 mm)
+Add component (AddParameter): Name = "Code"; Value = "3606-006"; VariantName = "[No Variations]"
+Added Component: Designator=S4(SW-SMD 3x6 mm)
+Add component (AddParameter): Name = "Code"; Value = "3606-006"; VariantName = "[No Variations]"
+Added Component: Designator=U1(Bxxxx 1W DC DC MORNSUN)
+Add component (AddParameter): Name = "Code"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Packaging Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(DRV8825)
+Added Component: Designator=U3(DRV8825)
+Added Component: Designator=U4(LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL)
+Added Component: Designator=U5(DRV8825)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=GND Pin=LED3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=GND Pin=P11-3
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=GND Pin=R29-2
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=GND Pin=R31-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-23
+Added Pin To Net: NetName=GND Pin=U4-35
+Added Pin To Net: NetName=GND Pin=U4-47
+Added Pin To Net: NetName=GND Pin=U5-9
+Added Pin To Net: NetName=3.3V Pin=C7-2
+Added Pin To Net: NetName=3.3V Pin=C9-2
+Added Pin To Net: NetName=3.3V Pin=C18-2
+Added Pin To Net: NetName=3.3V Pin=C19-2
+Added Pin To Net: NetName=3.3V Pin=C20-2
+Added Pin To Net: NetName=3.3V Pin=C21-2
+Added Pin To Net: NetName=3.3V Pin=IC1-2
+Added Pin To Net: NetName=3.3V Pin=IC1-4
+Added Pin To Net: NetName=3.3V Pin=P3-4
+Added Pin To Net: NetName=3.3V Pin=P5-1
+Added Pin To Net: NetName=3.3V Pin=P6-1
+Added Pin To Net: NetName=3.3V Pin=P7-1
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Pin To Net: NetName=3.3V Pin=R4-2
+Added Pin To Net: NetName=3.3V Pin=R5-2
+Added Pin To Net: NetName=3.3V Pin=R6-2
+Added Pin To Net: NetName=3.3V Pin=R7-2
+Added Pin To Net: NetName=3.3V Pin=R8-2
+Added Pin To Net: NetName=3.3V Pin=R9-2
+Added Pin To Net: NetName=3.3V Pin=R10-1
+Added Pin To Net: NetName=3.3V Pin=R11-1
+Added Pin To Net: NetName=3.3V Pin=R14-2
+Added Pin To Net: NetName=3.3V Pin=R16-2
+Added Pin To Net: NetName=3.3V Pin=R17-2
+Added Pin To Net: NetName=3.3V Pin=R21-1
+Added Pin To Net: NetName=3.3V Pin=R22-1
+Added Pin To Net: NetName=3.3V Pin=R23-1
+Added Pin To Net: NetName=3.3V Pin=R26-1
+Added Pin To Net: NetName=3.3V Pin=U4-9
+Added Pin To Net: NetName=3.3V Pin=U4-24
+Added Pin To Net: NetName=3.3V Pin=U4-36
+Added Pin To Net: NetName=3.3V Pin=U4-48
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5VS Pin=C13-1
+Added Pin To Net: NetName=5VS Pin=C16-2
+Added Pin To Net: NetName=5VS Pin=D5-1
+Added Pin To Net: NetName=5VS Pin=IC2-3
+Added Net: Name=5VS
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=5V Pin=C6-2
+Added Pin To Net: NetName=5V Pin=C8-2
+Added Pin To Net: NetName=5V Pin=IC1-3
+Added Pin To Net: NetName=5V Pin=R3-1
+Added Pin To Net: NetName=5V Pin=U1-4
+Added Net: Name=5V
+Added Pin To Net: NetName=24VM Pin=C10-1
+Added Pin To Net: NetName=24VM Pin=C11-1
+Added Pin To Net: NetName=24VM Pin=C12-1
+Added Pin To Net: NetName=24VM Pin=C14-1
+Added Pin To Net: NetName=24VM Pin=C15-2
+Added Pin To Net: NetName=24VM Pin=C17-1
+Added Pin To Net: NetName=24VM Pin=C22-1
+Added Pin To Net: NetName=24VM Pin=D3-2
+Added Pin To Net: NetName=24VM Pin=D4-1
+Added Pin To Net: NetName=24VM Pin=IC2-1
+Added Pin To Net: NetName=24VM Pin=U2-16
+Added Pin To Net: NetName=24VM Pin=U3-16
+Added Pin To Net: NetName=24VM Pin=U5-16
+Added Net: Name=24VM
+Added Pin To Net: NetName=24V Pin=D1-1
+Added Pin To Net: NetName=24V Pin=D3-1
+Added Pin To Net: NetName=24V Pin=J1-2
+Added Net: Name=24V
+Added Pin To Net: NetName=CLK Pin=R12-2
+Added Pin To Net: NetName=CLK Pin=U4-37
+Added Net: Name=CLK
+Added Pin To Net: NetName=DIO Pin=R13-2
+Added Pin To Net: NetName=DIO Pin=U4-34
+Added Net: Name=DIO
+Added Pin To Net: NetName=DIR1 Pin=U2-8
+Added Pin To Net: NetName=DIR1 Pin=U4-41
+Added Net: Name=DIR1
+Added Pin To Net: NetName=DIR2 Pin=U3-8
+Added Pin To Net: NetName=DIR2 Pin=U4-45
+Added Net: Name=DIR2
+Added Pin To Net: NetName=DIR3 Pin=U4-38
+Added Pin To Net: NetName=DIR3 Pin=U5-8
+Added Net: Name=DIR3
+Added Pin To Net: NetName=ENDX Pin=P8-1
+Added Pin To Net: NetName=ENDX Pin=U4-11
+Added Net: Name=ENDX
+Added Pin To Net: NetName=ENDY Pin=P9-1
+Added Pin To Net: NetName=ENDY Pin=U4-14
+Added Net: Name=ENDY
+Added Pin To Net: NetName=ENDZ Pin=P10-1
+Added Pin To Net: NetName=ENDZ Pin=U4-10
+Added Net: Name=ENDZ
+Added Pin To Net: NetName=GND24 Pin=C4-2
+Added Pin To Net: NetName=GND24 Pin=C5-2
+Added Pin To Net: NetName=GND24 Pin=C10-2
+Added Pin To Net: NetName=GND24 Pin=C11-2
+Added Pin To Net: NetName=GND24 Pin=C12-2
+Added Pin To Net: NetName=GND24 Pin=C13-2
+Added Pin To Net: NetName=GND24 Pin=C14-2
+Added Pin To Net: NetName=GND24 Pin=C15-1
+Added Pin To Net: NetName=GND24 Pin=C16-1
+Added Pin To Net: NetName=GND24 Pin=C17-2
+Added Pin To Net: NetName=GND24 Pin=C22-2
+Added Pin To Net: NetName=GND24 Pin=D2-2
+Added Pin To Net: NetName=GND24 Pin=D4-2
+Added Pin To Net: NetName=GND24 Pin=IC2-4
+Added Pin To Net: NetName=GND24 Pin=IC2-4
+Added Pin To Net: NetName=GND24 Pin=J1-1
+Added Pin To Net: NetName=GND24 Pin=LED1-2
+Added Pin To Net: NetName=GND24 Pin=U1-1
+Added Pin To Net: NetName=GND24 Pin=U2-15
+Added Pin To Net: NetName=GND24 Pin=U3-15
+Added Pin To Net: NetName=GND24 Pin=U5-15
+Added Net: Name=GND24
+Added Pin To Net: NetName=KEY1 Pin=R11-2
+Added Pin To Net: NetName=KEY1 Pin=S2-1
+Added Pin To Net: NetName=KEY1 Pin=U4-18
+Added Net: Name=KEY1
+Added Pin To Net: NetName=KEY2 Pin=R21-2
+Added Pin To Net: NetName=KEY2 Pin=S3-1
+Added Pin To Net: NetName=KEY2 Pin=U4-19
+Added Net: Name=KEY2
+Added Pin To Net: NetName=KEY3 Pin=R22-2
+Added Pin To Net: NetName=KEY3 Pin=S4-1
+Added Pin To Net: NetName=KEY3 Pin=U4-39
+Added Net: Name=KEY3
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=C5-1
+Added Pin To Net: NetName=NetC4_1 Pin=D1-2
+Added Pin To Net: NetName=NetC4_1 Pin=D2-1
+Added Pin To Net: NetName=NetC4_1 Pin=R2-2
+Added Pin To Net: NetName=NetC4_1 Pin=U1-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=P11-2
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R2-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R3-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R1-1
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R23-2
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=U4-33
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_1 Pin=R26-2
+Added Net: Name=NetLED5_1
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_2 Pin=U4-28
+Added Net: Name=NetLED5_2
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=U2-14
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=U2-13
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=U2-12
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=U2-11
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=U3-14
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP2_2 Pin=P2-2
+Added Pin To Net: NetName=NetP2_2 Pin=U3-13
+Added Net: Name=NetP2_2
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=NetP2_3 Pin=U3-12
+Added Net: Name=NetP2_3
+Added Pin To Net: NetName=NetP2_4 Pin=P2-4
+Added Pin To Net: NetName=NetP2_4 Pin=U3-11
+Added Net: Name=NetP2_4
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=R13-1
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=R12-1
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=U5-14
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetP4_2 Pin=U5-13
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetP4_3 Pin=P4-3
+Added Pin To Net: NetName=NetP4_3 Pin=U5-12
+Added Net: Name=NetP4_3
+Added Pin To Net: NetName=NetP4_4 Pin=P4-4
+Added Pin To Net: NetName=NetP4_4 Pin=U5-11
+Added Net: Name=NetP4_4
+Added Pin To Net: NetName=NetP5_3 Pin=P5-3
+Added Pin To Net: NetName=NetP5_3 Pin=R18-1
+Added Net: Name=NetP5_3
+Added Pin To Net: NetName=NetP5_4 Pin=P5-4
+Added Pin To Net: NetName=NetP5_4 Pin=R19-1
+Added Net: Name=NetP5_4
+Added Pin To Net: NetName=NetP6_3 Pin=P6-3
+Added Pin To Net: NetName=NetP6_3 Pin=R20-1
+Added Net: Name=NetP6_3
+Added Pin To Net: NetName=NetP6_4 Pin=P6-4
+Added Pin To Net: NetName=NetP6_4 Pin=R24-1
+Added Net: Name=NetP6_4
+Added Pin To Net: NetName=NetP7_3 Pin=P7-3
+Added Pin To Net: NetName=NetP7_3 Pin=R27-1
+Added Net: Name=NetP7_3
+Added Pin To Net: NetName=NetP7_4 Pin=P7-4
+Added Pin To Net: NetName=NetP7_4 Pin=R28-1
+Added Net: Name=NetP7_4
+Added Pin To Net: NetName=NetP8_2 Pin=P8-2
+Added Pin To Net: NetName=NetP8_2 Pin=R29-1
+Added Net: Name=NetP8_2
+Added Pin To Net: NetName=NetP9_2 Pin=P9-2
+Added Pin To Net: NetName=NetP9_2 Pin=R30-1
+Added Net: Name=NetP9_2
+Added Pin To Net: NetName=NetP10_2 Pin=P10-2
+Added Pin To Net: NetName=NetP10_2 Pin=R31-1
+Added Net: Name=NetP10_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U2-2
+Added Pin To Net: NetName=NetR4_1 Pin=U2-3
+Added Pin To Net: NetName=NetR4_1 Pin=U2-4
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U2-5
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U2-6
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U3-2
+Added Pin To Net: NetName=NetR7_1 Pin=U3-3
+Added Pin To Net: NetName=NetR7_1 Pin=U3-4
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U3-5
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U3-6
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=U5-2
+Added Pin To Net: NetName=NetR14_1 Pin=U5-3
+Added Pin To Net: NetName=NetR14_1 Pin=U5-4
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=U4-44
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=U5-5
+Added Net: Name=NetR16_1
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=U5-6
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR25_2 Pin=U4-20
+Added Net: Name=NetR25_2
+Added Pin To Net: NetName=PULSE1 Pin=U2-7
+Added Pin To Net: NetName=PULSE1 Pin=U4-42
+Added Net: Name=PULSE1
+Added Pin To Net: NetName=PULSE2 Pin=U3-7
+Added Pin To Net: NetName=PULSE2 Pin=U4-46
+Added Net: Name=PULSE2
+Added Pin To Net: NetName=PULSE3 Pin=U4-40
+Added Pin To Net: NetName=PULSE3 Pin=U5-7
+Added Net: Name=PULSE3
+Added Pin To Net: NetName=RST Pin=R10-2
+Added Pin To Net: NetName=RST Pin=S1-1
+Added Pin To Net: NetName=RST Pin=U4-7
+Added Net: Name=RST
+Added Pin To Net: NetName=RX1 Pin=R19-2
+Added Pin To Net: NetName=RX1 Pin=U4-31
+Added Net: Name=RX1
+Added Pin To Net: NetName=RX2 Pin=R24-2
+Added Pin To Net: NetName=RX2 Pin=U4-13
+Added Net: Name=RX2
+Added Pin To Net: NetName=RX3 Pin=R28-2
+Added Pin To Net: NetName=RX3 Pin=U4-22
+Added Net: Name=RX3
+Added Pin To Net: NetName=SIG Pin=P11-1
+Added Pin To Net: NetName=SIG Pin=U4-16
+Added Net: Name=SIG
+Added Pin To Net: NetName=TX1 Pin=R18-2
+Added Pin To Net: NetName=TX1 Pin=U4-30
+Added Net: Name=TX1
+Added Pin To Net: NetName=TX2 Pin=R20-2
+Added Pin To Net: NetName=TX2 Pin=U4-12
+Added Net: Name=TX2
+Added Pin To Net: NetName=TX3 Pin=R27-2
+Added Pin To Net: NetName=TX3 Pin=U4-21
+Added Net: Name=TX3
+Added Member To Class: ClassName=schematic Member=Component C1 100uF/35V
+Added Member To Class: ClassName=schematic Member=Component C2 104
+Added Member To Class: ClassName=schematic Member=Component C3 104
+Added Member To Class: ClassName=schematic Member=Component C4 100uF/35V
+Added Member To Class: ClassName=schematic Member=Component C5 104
+Added Member To Class: ClassName=schematic Member=Component C6 104
+Added Member To Class: ClassName=schematic Member=Component C7 104
+Added Member To Class: ClassName=schematic Member=Component C8 10uF/25V
+Added Member To Class: ClassName=schematic Member=Component C9 10uF/25V
+Added Member To Class: ClassName=schematic Member=Component C10 470uF/35V
+Added Member To Class: ClassName=schematic Member=Component C11 100uF/35V
+Added Member To Class: ClassName=schematic Member=Component C12 1000uF/16V
+Added Member To Class: ClassName=schematic Member=Component C13 1000uF/16V
+Added Member To Class: ClassName=schematic Member=Component C14 104
+Added Member To Class: ClassName=schematic Member=Component C15 104
+Added Member To Class: ClassName=schematic Member=Component C16 104
+Added Member To Class: ClassName=schematic Member=Component C17 470uF/35V
+Added Member To Class: ClassName=schematic Member=Component C18 104
+Added Member To Class: ClassName=schematic Member=Component C19 104
+Added Member To Class: ClassName=schematic Member=Component C20 104
+Added Member To Class: ClassName=schematic Member=Component C21 104
+Added Member To Class: ClassName=schematic Member=Component C22 470uF/35V
+Added Member To Class: ClassName=schematic Member=Component D1 SS34
+Added Member To Class: ClassName=schematic Member=Component D2 SMAJ24A
+Added Member To Class: ClassName=schematic Member=Component D3 SS34
+Added Member To Class: ClassName=schematic Member=Component D4 SMAJ24A
+Added Member To Class: ClassName=schematic Member=Component D5 SS34
+Added Member To Class: ClassName=schematic Member=Component IC1 AMS1117
+Added Member To Class: ClassName=schematic Member=Component IC2 L7805
+Added Member To Class: ClassName=schematic Member=Component J1 KF-5.08 2P
+Added Member To Class: ClassName=schematic Member=Component LED1 LED RED
+Added Member To Class: ClassName=schematic Member=Component LED2 LED GREEN
+Added Member To Class: ClassName=schematic Member=Component LED3 LED BLUE
+Added Member To Class: ClassName=schematic Member=Component LED4 LED GREEN
+Added Member To Class: ClassName=schematic Member=Component LED5 LED GREEN
+Added Member To Class: ClassName=schematic Member=Component P1 XH2.54 4P
+Added Member To Class: ClassName=schematic Member=Component P2 XH2.54 4P
+Added Member To Class: ClassName=schematic Member=Component P3 HDR-M-4P
+Added Member To Class: ClassName=schematic Member=Component P4 XH2.54 4P
+Added Member To Class: ClassName=schematic Member=Component P5 XH2.54 4P
+Added Member To Class: ClassName=schematic Member=Component P6 XH2.54 4P
+Added Member To Class: ClassName=schematic Member=Component P7 XH2.54 4P
+Added Member To Class: ClassName=schematic Member=Component P8 XH2.54 2P
+Added Member To Class: ClassName=schematic Member=Component P9 XH2.54 2P
+Added Member To Class: ClassName=schematic Member=Component P10 XH2.54 2P
+Added Member To Class: ClassName=schematic Member=Component P11 XH2.54 3P
+Added Member To Class: ClassName=schematic Member=Component R1 2.2k
+Added Member To Class: ClassName=schematic Member=Component R2 5.1K
+Added Member To Class: ClassName=schematic Member=Component R3 2.2k
+Added Member To Class: ClassName=schematic Member=Component R4 470R
+Added Member To Class: ClassName=schematic Member=Component R5 10K
+Added Member To Class: ClassName=schematic Member=Component R6 10K
+Added Member To Class: ClassName=schematic Member=Component R7 470R
+Added Member To Class: ClassName=schematic Member=Component R8 10K
+Added Member To Class: ClassName=schematic Member=Component R9 10K
+Added Member To Class: ClassName=schematic Member=Component R10 4.7K
+Added Member To Class: ClassName=schematic Member=Component R11 4.7K
+Added Member To Class: ClassName=schematic Member=Component R12 47R
+Added Member To Class: ClassName=schematic Member=Component R13 47R
+Added Member To Class: ClassName=schematic Member=Component R14 470R
+Added Member To Class: ClassName=schematic Member=Component R15 4.7K
+Added Member To Class: ClassName=schematic Member=Component R16 10K
+Added Member To Class: ClassName=schematic Member=Component R17 10K
+Added Member To Class: ClassName=schematic Member=Component R18 47R
+Added Member To Class: ClassName=schematic Member=Component R19 47R
+Added Member To Class: ClassName=schematic Member=Component R20 47R
+Added Member To Class: ClassName=schematic Member=Component R21 4.7K
+Added Member To Class: ClassName=schematic Member=Component R22 4.7K
+Added Member To Class: ClassName=schematic Member=Component R23 2.2k
+Added Member To Class: ClassName=schematic Member=Component R24 47R
+Added Member To Class: ClassName=schematic Member=Component R25 4.7K
+Added Member To Class: ClassName=schematic Member=Component R26 2.2k
+Added Member To Class: ClassName=schematic Member=Component R27 47R
+Added Member To Class: ClassName=schematic Member=Component R28 47R
+Added Member To Class: ClassName=schematic Member=Component R29 10K
+Added Member To Class: ClassName=schematic Member=Component R30 10K
+Added Member To Class: ClassName=schematic Member=Component R31 10K
+Added Member To Class: ClassName=schematic Member=Component S1 SW-SMD
+Added Member To Class: ClassName=schematic Member=Component S2 SW-SMD
+Added Member To Class: ClassName=schematic Member=Component S3 SW-SMD
+Added Member To Class: ClassName=schematic Member=Component S4 SW-SMD
+Added Member To Class: ClassName=schematic Member=Component U1 B2405S-1W2R
+Added Member To Class: ClassName=schematic Member=Component U2 DRV8825
+Added Member To Class: ClassName=schematic Member=Component U3 DRV8825
+Added Member To Class: ClassName=schematic Member=Component U4 STM32F103C8T6
+Added Member To Class: ClassName=schematic Member=Component U5 DRV8825
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6

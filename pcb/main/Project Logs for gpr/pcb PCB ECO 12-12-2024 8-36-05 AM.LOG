@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND24 Pin=J1-1
+Removed Pin From Net: NetName=24V Pin=J1-2
+Removed Member From Class: ClassName=schematic Member=J1
+Added Component: Designator=CN1(CONN-TH_XT60PW-M)
+Added Pin To Net: NetName=GND24 Pin=CN1-1
+Added Pin To Net: NetName=24V Pin=CN1-2
+Added Pin To Net: NetName=GND24 Pin=CN1-3
+Added Pin To Net: NetName=GND24 Pin=CN1-4
+Added Member To Class: ClassName=schematic Member=Component CN1 XT60PW-M

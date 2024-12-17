@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=P1 Old Footprint=XH2.54_4P New Footprint=XH2.54_4P_RA
+Change Component Footprint: Designator=P2 Old Footprint=XH2.54_4P New Footprint=XH2.54_4P_RA
+Change Component Footprint: Designator=P4 Old Footprint=XH2.54_4P New Footprint=XH2.54_4P_RA
+Change component parameters: Designator = "P1" ("P1"); Footprint = "XH2.54_4P"; UniqueID = "\HGHAPWCS" ("\HGHAPWCS")
+Change component parameters (AddParameter): Name = "Code"; Value = "3509-012"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2" ("P2"); Footprint = "XH2.54_4P"; UniqueID = "\EGLAVJHX" ("\EGLAVJHX")
+Change component parameters (AddParameter): Name = "Code"; Value = "3509-012"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P4" ("P4"); Footprint = "XH2.54_4P"; UniqueID = "\ZKOGXWPP" ("\ZKOGXWPP")
+Change component parameters (AddParameter): Name = "Code"; Value = "3509-012"; VariantName = "[No Variations]"

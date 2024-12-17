@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=5V Pin=C1-1
+Removed Pin From Net: NetName=5V Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=5V Pin=C3-2
+Removed Pin From Net: NetName=24VM Pin=C12-1
+Removed Pin From Net: NetName=5VS Pin=C13-1
+Removed Pin From Net: NetName=24VM Pin=C15-2
+Removed Pin From Net: NetName=5VS Pin=C16-2
+Removed Pin From Net: NetName=5VS Pin=D5-1
+Removed Pin From Net: NetName=24VM Pin=IC2-1
+Removed Pin From Net: NetName=5VS Pin=IC2-3
+Removed Pin From Net: NetName=GND Pin=LED2-2
+Removed Pin From Net: NetName=5V Pin=R3-1
+Removed Member From Class: ClassName=schematic Member=C13
+Removed Member From Class: ClassName=schematic Member=C15
+Removed Member From Class: ClassName=schematic Member=C16
+Removed Member From Class: ClassName=schematic Member=IC2
+Removed Member From Class: ClassName=schematic Member=LED1
+Removed Member From Class: ClassName=schematic Member=LED2
+Removed Member From Class: ClassName=schematic Member=R3
+Change Component Footprint: Designator=U1 Old Footprint=Bxxxx 1W DC DC MORNSUN New Footprint=TO-263-5
+Change Component Footprint: Designator=C1 Old Footprint=C_6.3x12 New Footprint=C8X12mm
+Change Component Footprint: Designator=C4 Old Footprint=C_6.3x12 New Footprint=C_0805_SMD
+Change Component Footprint: Designator=C12 Old Footprint=C_8X12 New Footprint=C_0805_SMD
+Change Component Footprint: Designator=C3 Old Footprint=C_0805_SMD New Footprint=C8X12mm
+Change Component Footprint: Designator=C5 Old Footprint=C_0805_SMD New Footprint=C_6.3x12
+Change Component Footprint: Designator=D2 Old Footprint=DO_241AC_SMA_MFG New Footprint=D_SMA
+Change Component Comment : Designator=R2 Old Comment=5.1K New Comment=10K
+Change Component Comment : Designator=C4 Old Comment=100uF/35V New Comment=104
+Change Component Comment : Designator=C1 Old Comment=100uF/35V New Comment=470uF/35V
+Change Component Comment : Designator=C5 Old Comment=104 New Comment=100uF/35V
+Change Component Comment : Designator=C3 Old Comment=104 New Comment=220uF/35V
+Change Component Comment : Designator=C12 Old Comment=1000uF/16V New Comment=104
+Change Component Comment : Designator=U1 Old Comment=B2405S-1W2R New Comment=LM2596HVS-5.0
+Change Component Comment : Designator=D2 Old Comment=SMAJ24A New Comment=SS34
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C_6.3x12"; UniqueID = "\GVPUTEZD" ("\GVPUTEZD")
+Change component parameters (AddParameter): Name = "Code"; Value = "1402-231"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C_0805_SMD"; UniqueID = "\RGCRFFDA" ("\RGCRFFDA")
+Change component parameters (AddParameter): Name = "Code"; Value = "1402-228"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C_6.3x12"; UniqueID = "\UZCQQNTT" ("\UZCQQNTT")
+Change component parameters (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "C_0805_SMD"; UniqueID = "\EMPNPITY" ("\EMPNPITY")
+Change component parameters (AddParameter): Name = "Code"; Value = "1402-225"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "C_8X12"; UniqueID = "\ZMMWJGDA" ("\ZMMWJGDA")
+Change component parameters (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "D_SMA"; UniqueID = "\VDUDPUHU" ("\VDUDPUHU")
+Change component parameters (AddParameter): Name = "Code"; Value = "2005-008"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "DO_241AC_SMA_MFG"; UniqueID = "\ZXCFKLBO" ("\ZXCFKLBO")
+Change component parameters (AddParameter): Name = "Code"; Value = "2005-008"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "D_SMA"; UniqueID = "\ERFFFOON" ("\ERFFFOON")
+Change component parameters (AddParameter): Name = "Code"; Value = "2005-008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "SS34"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RES-SMD-0805"; UniqueID = "\AVRCPQDS" ("\AVRCPQDS")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "Bxxxx 1W DC DC MORNSUN"; UniqueID = "\LNBRWPXX" ("\LNBRWPXX")
+Change component parameters (AddParameter): Name = "Code"; Value = "5101-052"; VariantName = "[No Variations]"
+Added Component: Designator=D6(DO_241AC_SMA_MFG)
+Add component (AddParameter): Name = "Code"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "TranLuyen"; VariantName = "[No Variations]"
+Added Component: Designator=L1(CDRH127)
+Add component (AddParameter): Name = "Code"; Value = "1522-003"; VariantName = "[No Variations]"
+Added Component: Designator=L_PW1(LED 0805 Red)
+Add component (AddParameter): Name = "Code"; Value = "8600-017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "TranLuyen"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=5V Pin=C4-2
+Added Pin To Net: NetName=5VS Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=5VS Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=CN1-1
+Added Pin To Net: NetName=GND Pin=CN1-3
+Added Pin To Net: NetName=GND Pin=CN1-4
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=5V Pin=D5-1
+Added Pin To Net: NetName=5VS Pin=D5-2
+Added Pin To Net: NetName=5VS Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=5V Pin=L1-2
+Added Pin To Net: NetName=GND Pin=L_PW1-2
+Added Pin To Net: NetName=5VS Pin=P11-2
+Added Pin To Net: NetName=GND Pin=P11-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Pin To Net: NetName=GND Pin=U5-15
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-2
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Pin To Net: NetName=NetC1_1 Pin=R2-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=L1-1
+Added Pin To Net: NetName=NetD2_2 Pin=U1-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetL_PW1_1 Pin=L_PW1-1
+Added Pin To Net: NetName=NetL_PW1_1 Pin=R2-2
+Added Net: Name=NetL_PW1_1
+Added Member To Class: ClassName=schematic Member=Component D6 SMAJ24A
+Added Member To Class: ClassName=schematic Member=Component L1 68uH
+Added Member To Class: ClassName=schematic Member=Component L_PW1 LED RED
