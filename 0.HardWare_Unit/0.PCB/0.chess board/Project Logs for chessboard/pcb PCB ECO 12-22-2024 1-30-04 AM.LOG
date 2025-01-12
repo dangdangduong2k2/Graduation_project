@@ -1,0 +1,486 @@
+Change Component Kind : Designator=P2 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C8X12MM"; UniqueID = "\HSJAJICH" ("\HSJAJICH")
+Change component parameters (AddParameter): Name = "Code"; Value = "1402-231"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C_0805_SMD"; UniqueID = "\LSRYIKKN" ("\LSRYIKKN")
+Change component parameters (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C8X12MM"; UniqueID = "\UXRGLGOG" ("\UXRGLGOG")
+Change component parameters (AddParameter): Name = "Code"; Value = "1402-228"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C_0805_SMD"; UniqueID = "\GTBBMGKI" ("\GTBBMGKI")
+Change component parameters (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "C_0805_SMD"; UniqueID = "\GLCMTDLA" ("\GLCMTDLA")
+Change component parameters (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "C_0805_SMD"; UniqueID = "\CMAXGFSD" ("\CMAXGFSD")
+Change component parameters (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "C_0805_SMD"; UniqueID = "\ROARSICO" ("\ROARSICO")
+Change component parameters (AddParameter): Name = "Code"; Value = "1436-100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "C_0805_SMD"; UniqueID = "\NNZTVQST" ("\NNZTVQST")
+Change component parameters (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SOD80C_MFG"; UniqueID = "\MGUQHRNE" ("\MGUQHRNE")
+Change component parameters (AddParameter): Name = "Code"; Value = "2001-012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "D_SMA"; UniqueID = "\XLDECNJN" ("\XLDECNJN")
+Change component parameters (AddParameter): Name = "Code"; Value = "2005-008"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "D_SMA"; UniqueID = "\XTIDDXZZ" ("\XTIDDXZZ")
+Change component parameters (AddParameter): Name = "Code"; Value = "2005-008"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "SOD80C_MFG"; UniqueID = "\PDZDYJVH" ("\PDZDYJVH")
+Change component parameters (AddParameter): Name = "Code"; Value = "2001-012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "SOD80C_MFG"; UniqueID = "\XNAXOUPC" ("\XNAXOUPC")
+Change component parameters (AddParameter): Name = "Code"; Value = "2001-012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6" ("D6"); Footprint = "SOD80C_MFG"; UniqueID = "\HNLIVCLY" ("\HNLIVCLY")
+Change component parameters (AddParameter): Name = "Code"; Value = "2001-012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7" ("D7"); Footprint = "SOD80C_MFG"; UniqueID = "\MGTNDFHP" ("\MGTNDFHP")
+Change component parameters (AddParameter): Name = "Code"; Value = "2001-012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8" ("D8"); Footprint = "SOD80C_MFG"; UniqueID = "\PBKOHQUK" ("\PBKOHQUK")
+Change component parameters (AddParameter): Name = "Code"; Value = "2001-012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D9" ("D9"); Footprint = "SOD80C_MFG"; UniqueID = "\GWMCNQDC" ("\GWMCNQDC")
+Change component parameters (AddParameter): Name = "Code"; Value = "2001-012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D10" ("D10"); Footprint = "SOD80C_MFG"; UniqueID = "\ZDCVPWZN" ("\ZDCVPWZN")
+Change component parameters (AddParameter): Name = "Code"; Value = "2001-012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC1" ("IC1"); Footprint = "SO_16"; UniqueID = "\QMXZCKUR" ("\QMXZCKUR")
+Change component parameters (AddParameter): Name = "Code"; Value = "5001-017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed by"; Value = "nhox"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "CDRH127"; UniqueID = "\RZYBYEBG" ("\RZYBYEBG")
+Change component parameters (AddParameter): Name = "Code"; Value = "1522-003"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L_PW1" ("L_PW1"); Footprint = "LED 0805 RED"; UniqueID = "\WDWCTZRL" ("\WDWCTZRL")
+Change component parameters (AddParameter): Name = "Code"; Value = "8600-017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed by"; Value = "TranLuyen"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1" ("P1"); Footprint = "XH2.54_4P_RA"; UniqueID = "\YHNCSRZJ" ("\YHNCSRZJ")
+Change component parameters (AddParameter): Name = "Code"; Value = "3509-012"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "QTO-92"; UniqueID = "\LFOAYLVP" ("\LFOAYLVP")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "QTO-92"; UniqueID = "\SSBWNZVK" ("\SSBWNZVK")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "QTO-92"; UniqueID = "\ALKERVLN" ("\ALKERVLN")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "QTO-92"; UniqueID = "\MOKJTQYA" ("\MOKJTQYA")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5" ("Q5"); Footprint = "QTO-92"; UniqueID = "\SMGYBFDS" ("\SMGYBFDS")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6" ("Q6"); Footprint = "QTO-92"; UniqueID = "\YZYOVMZT" ("\YZYOVMZT")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q7" ("Q7"); Footprint = "QTO-92"; UniqueID = "\YGEJJFPD" ("\YGEJJFPD")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q8" ("Q8"); Footprint = "QTO-92"; UniqueID = "\ZHCOMLDG" ("\ZHCOMLDG")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q9" ("Q9"); Footprint = "SOT23_N NXP"; UniqueID = "\MXLPRSNS" ("\MXLPRSNS")
+Change component parameters (AddParameter): Name = "Code"; Value = "1701-070"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q10" ("Q10"); Footprint = "SOT23_N NXP"; UniqueID = "\MGZMGYAN" ("\MGZMGYAN")
+Change component parameters (AddParameter): Name = "Code"; Value = "1901-076"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "BSS138L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q11" ("Q11"); Footprint = "SOT23_N NXP"; UniqueID = "\MMIPIRLD" ("\MMIPIRLD")
+Change component parameters (AddParameter): Name = "Code"; Value = "1901-076"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "BSS138L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q12" ("Q12"); Footprint = "QTO-92"; UniqueID = "\ENKXJWAU" ("\ENKXJWAU")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q13" ("Q13"); Footprint = "QTO-92"; UniqueID = "\ONFSXDVR" ("\ONFSXDVR")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q14" ("Q14"); Footprint = "QTO-92"; UniqueID = "\HQUDRMAA" ("\HQUDRMAA")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q15" ("Q15"); Footprint = "QTO-92"; UniqueID = "\AUKFOZCT" ("\AUKFOZCT")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q16" ("Q16"); Footprint = "QTO-92"; UniqueID = "\ODRSULFT" ("\ODRSULFT")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q17" ("Q17"); Footprint = "QTO-92"; UniqueID = "\YIOZRAHV" ("\YIOZRAHV")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q18" ("Q18"); Footprint = "QTO-92"; UniqueID = "\PVLCXINZ" ("\PVLCXINZ")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q19" ("Q19"); Footprint = "QTO-92"; UniqueID = "\EYYBSFBX" ("\EYYBSFBX")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q20" ("Q20"); Footprint = "SOT23_N NXP"; UniqueID = "\XDRUUDFA" ("\XDRUUDFA")
+Change component parameters (AddParameter): Name = "Code"; Value = "1701-070"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q21" ("Q21"); Footprint = "QTO-92"; UniqueID = "\PTDFKEQE" ("\PTDFKEQE")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q22" ("Q22"); Footprint = "QTO-92"; UniqueID = "\REXLBJAF" ("\REXLBJAF")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q23" ("Q23"); Footprint = "QTO-92"; UniqueID = "\RRMZXLSW" ("\RRMZXLSW")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q24" ("Q24"); Footprint = "QTO-92"; UniqueID = "\WGPIZNST" ("\WGPIZNST")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q25" ("Q25"); Footprint = "QTO-92"; UniqueID = "\AOBVGZDZ" ("\AOBVGZDZ")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q26" ("Q26"); Footprint = "QTO-92"; UniqueID = "\TTBSWPSI" ("\TTBSWPSI")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q27" ("Q27"); Footprint = "QTO-92"; UniqueID = "\YUHOCLNC" ("\YUHOCLNC")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q28" ("Q28"); Footprint = "QTO-92"; UniqueID = "\LLWUIXXJ" ("\LLWUIXXJ")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q29" ("Q29"); Footprint = "SOT23_N NXP"; UniqueID = "\WUFEZMFL" ("\WUFEZMFL")
+Change component parameters (AddParameter): Name = "Code"; Value = "1701-070"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q30" ("Q30"); Footprint = "QTO-92"; UniqueID = "\PDXVJNUK" ("\PDXVJNUK")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q31" ("Q31"); Footprint = "QTO-92"; UniqueID = "\QFTFOMKG" ("\QFTFOMKG")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q32" ("Q32"); Footprint = "QTO-92"; UniqueID = "\LNGLIVZC" ("\LNGLIVZC")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q33" ("Q33"); Footprint = "QTO-92"; UniqueID = "\CRSNTCOT" ("\CRSNTCOT")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q34" ("Q34"); Footprint = "QTO-92"; UniqueID = "\QRPEQYLW" ("\QRPEQYLW")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q35" ("Q35"); Footprint = "QTO-92"; UniqueID = "\XASUJTTU" ("\XASUJTTU")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q36" ("Q36"); Footprint = "QTO-92"; UniqueID = "\TPSYINJY" ("\TPSYINJY")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q37" ("Q37"); Footprint = "QTO-92"; UniqueID = "\JNBYQQDI" ("\JNBYQQDI")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q38" ("Q38"); Footprint = "SOT23_N NXP"; UniqueID = "\NVZAGTJZ" ("\NVZAGTJZ")
+Change component parameters (AddParameter): Name = "Code"; Value = "1701-070"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q39" ("Q39"); Footprint = "QTO-92"; UniqueID = "\TSEMUULU" ("\TSEMUULU")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q40" ("Q40"); Footprint = "QTO-92"; UniqueID = "\FQBFROTL" ("\FQBFROTL")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q41" ("Q41"); Footprint = "QTO-92"; UniqueID = "\FLHFJDJT" ("\FLHFJDJT")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q42" ("Q42"); Footprint = "QTO-92"; UniqueID = "\EWVDFSFI" ("\EWVDFSFI")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q43" ("Q43"); Footprint = "QTO-92"; UniqueID = "\GKDVDCQX" ("\GKDVDCQX")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q44" ("Q44"); Footprint = "QTO-92"; UniqueID = "\JPBPGXWW" ("\JPBPGXWW")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q45" ("Q45"); Footprint = "QTO-92"; UniqueID = "\XKUXQDRJ" ("\XKUXQDRJ")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q46" ("Q46"); Footprint = "QTO-92"; UniqueID = "\AZSZMPBC" ("\AZSZMPBC")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q47" ("Q47"); Footprint = "SOT23_N NXP"; UniqueID = "\MACPQRFG" ("\MACPQRFG")
+Change component parameters (AddParameter): Name = "Code"; Value = "1701-070"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q48" ("Q48"); Footprint = "QTO-92"; UniqueID = "\KBMPBADU" ("\KBMPBADU")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q49" ("Q49"); Footprint = "QTO-92"; UniqueID = "\ZTWYQLOE" ("\ZTWYQLOE")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q50" ("Q50"); Footprint = "QTO-92"; UniqueID = "\AJPOVYZM" ("\AJPOVYZM")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q51" ("Q51"); Footprint = "QTO-92"; UniqueID = "\XAPNKQXU" ("\XAPNKQXU")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q52" ("Q52"); Footprint = "QTO-92"; UniqueID = "\WCXIVJCF" ("\WCXIVJCF")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q53" ("Q53"); Footprint = "QTO-92"; UniqueID = "\IBEYVQFM" ("\IBEYVQFM")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q54" ("Q54"); Footprint = "QTO-92"; UniqueID = "\QHEIVFOC" ("\QHEIVFOC")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q55" ("Q55"); Footprint = "QTO-92"; UniqueID = "\URGQDXVY" ("\URGQDXVY")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q56" ("Q56"); Footprint = "SOT23_N NXP"; UniqueID = "\UYBFBDKL" ("\UYBFBDKL")
+Change component parameters (AddParameter): Name = "Code"; Value = "1701-070"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q57" ("Q57"); Footprint = "QTO-92"; UniqueID = "\MMYUJHIY" ("\MMYUJHIY")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q58" ("Q58"); Footprint = "QTO-92"; UniqueID = "\RFHKZCKM" ("\RFHKZCKM")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q59" ("Q59"); Footprint = "QTO-92"; UniqueID = "\FNVMMCPQ" ("\FNVMMCPQ")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q60" ("Q60"); Footprint = "QTO-92"; UniqueID = "\VJVPFGAJ" ("\VJVPFGAJ")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q61" ("Q61"); Footprint = "QTO-92"; UniqueID = "\EKMYEFYJ" ("\EKMYEFYJ")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q62" ("Q62"); Footprint = "QTO-92"; UniqueID = "\AMVQSWSV" ("\AMVQSWSV")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q63" ("Q63"); Footprint = "QTO-92"; UniqueID = "\FGDWHOBX" ("\FGDWHOBX")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q64" ("Q64"); Footprint = "QTO-92"; UniqueID = "\VTVBYBVO" ("\VTVBYBVO")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q65" ("Q65"); Footprint = "SOT23_N NXP"; UniqueID = "\EMKMXKEJ" ("\EMKMXKEJ")
+Change component parameters (AddParameter): Name = "Code"; Value = "1701-070"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q66" ("Q66"); Footprint = "QTO-92"; UniqueID = "\VBPSCONU" ("\VBPSCONU")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q67" ("Q67"); Footprint = "QTO-92"; UniqueID = "\IHDUFGBV" ("\IHDUFGBV")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q68" ("Q68"); Footprint = "QTO-92"; UniqueID = "\VDMTXNQX" ("\VDMTXNQX")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q69" ("Q69"); Footprint = "QTO-92"; UniqueID = "\SOXOQNDS" ("\SOXOQNDS")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q70" ("Q70"); Footprint = "QTO-92"; UniqueID = "\JXFZTIWM" ("\JXFZTIWM")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q71" ("Q71"); Footprint = "QTO-92"; UniqueID = "\CJLPICYA" ("\CJLPICYA")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q72" ("Q72"); Footprint = "QTO-92"; UniqueID = "\LLTPPVQK" ("\LLTPPVQK")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q73" ("Q73"); Footprint = "QTO-92"; UniqueID = "\LABQRYVM" ("\LABQRYVM")
+Change component parameters (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q74" ("Q74"); Footprint = "SOT23_N NXP"; UniqueID = "\ROZWHCEO" ("\ROZWHCEO")
+Change component parameters (AddParameter): Name = "Code"; Value = "1701-070"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES-SMD-0805"; UniqueID = "\XOTOQWHP" ("\XOTOQWHP")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RES-SMD-0805"; UniqueID = "\LXQRQRAU" ("\LXQRQRAU")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RES-SMD-0805"; UniqueID = "\WOISYCJU" ("\WOISYCJU")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RES-SMD-0805"; UniqueID = "\WLYHXCIB" ("\WLYHXCIB")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RES-SMD-0805"; UniqueID = "\DZTIPIGF" ("\DZTIPIGF")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RES-SMD-0805"; UniqueID = "\ZPSXELQG" ("\ZPSXELQG")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RES-SMD-0805"; UniqueID = "\NBYACKOZ" ("\NBYACKOZ")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RES-SMD-0805"; UniqueID = "\LKIRIIFD" ("\LKIRIIFD")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RES-SMD-0805"; UniqueID = "\QHUFMMVJ" ("\QHUFMMVJ")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RES-SMD-0805"; UniqueID = "\MDCCCRXC" ("\MDCCCRXC")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RES-SMD-0805"; UniqueID = "\NJFZEDEW" ("\NJFZEDEW")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RES-SMD-0805"; UniqueID = "\LMCPFKCT" ("\LMCPFKCT")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RES-SMD-0805"; UniqueID = "\VGMCISZL" ("\VGMCISZL")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RES-SMD-0805"; UniqueID = "\XZDFJIBJ" ("\XZDFJIBJ")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RES-SMD-0805"; UniqueID = "\FTLPUOOA" ("\FTLPUOOA")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "RES-SMD-0805"; UniqueID = "\SYVGWHUT" ("\SYVGWHUT")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "RES-SMD-0805"; UniqueID = "\RBQIWEEM" ("\RBQIWEEM")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "RES-SMD-0805"; UniqueID = "\KLICZDWF" ("\KLICZDWF")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "RES-SMD-0805"; UniqueID = "\IXIWGJML" ("\IXIWGJML")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "RES-SMD-0805"; UniqueID = "\PDXAVABF" ("\PDXAVABF")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "RES-SMD-0805"; UniqueID = "\YOIURZVM" ("\YOIURZVM")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "RES-SMD-0805"; UniqueID = "\PWOZRRKG" ("\PWOZRRKG")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "RES-SMD-0805"; UniqueID = "\XKXDTBYC" ("\XKXDTBYC")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "RES-SMD-0805"; UniqueID = "\HNVLZXRC" ("\HNVLZXRC")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "RES-SMD-0805"; UniqueID = "\EYEHNFCK" ("\EYEHNFCK")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "RES-SMD-0805"; UniqueID = "\OMLAITYI" ("\OMLAITYI")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "RES-SMD-0805"; UniqueID = "\SBWOMOPA" ("\SBWOMOPA")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28" ("R28"); Footprint = "RES-SMD-0805"; UniqueID = "\TRMHBHTF" ("\TRMHBHTF")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "RES-SMD-0805"; UniqueID = "\LSENQZXQ" ("\LSENQZXQ")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "RES-SMD-0805"; UniqueID = "\RZBKBVSK" ("\RZBKBVSK")
+Change component parameters (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "TO-263-5"; UniqueID = "\JFAAVMUQ" ("\JFAAVMUQ")
+Change component parameters (AddParameter): Name = "Code"; Value = "5101-052"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "SO_16"; UniqueID = "\IOLXZOEH" ("\IOLXZOEH")
+Change component parameters (AddParameter): Name = "Code"; Value = "5001-007"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed by"; Value = "nhox"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SOG65_20"; UniqueID = "\JORRRJMO" ("\JORRRJMO")
+Change component parameters (AddParameter): Name = "Code"; Value = "7201-019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin L_PW1-2
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Add Pin To Net: Unknown Pin: Pin R19-1
+Add Pin To Net: Unknown Pin: Pin R19-2
+Add Pin To Net: Unknown Pin: Pin R20-1
+Add Pin To Net: Unknown Pin: Pin R20-2
+Add Pin To Net: Unknown Pin: Pin R21-1
+Add Pin To Net: Unknown Pin: Pin R21-2
+Add Pin To Net: Unknown Pin: Pin R22-1
+Add Pin To Net: Unknown Pin: Pin R22-2
+Add Pin To Net: Unknown Pin: Pin R23-1
+Add Pin To Net: Unknown Pin: Pin R23-2
+Add Pin To Net: Unknown Pin: Pin R24-1
+Add Pin To Net: Unknown Pin: Pin R24-2
+Add Pin To Net: Unknown Pin: Pin R25-1
+Add Pin To Net: Unknown Pin: Pin R25-2
+Add Pin To Net: Unknown Pin: Pin R26-1
+Add Pin To Net: Unknown Pin: Pin R26-2
+Add Pin To Net: Unknown Pin: Pin R27-1
+Add Pin To Net: Unknown Pin: Pin R27-2
+Add Pin To Net: Unknown Pin: Pin R28-1
+Add Pin To Net: Unknown Pin: Pin R28-2
+Add Pin To Net: Unknown Pin: Pin R29-1
+Add Pin To Net: Unknown Pin: Pin R29-2
+Add Pin To Net: Unknown Pin: Pin R30-1
+Add Pin To Net: Unknown Pin: Pin R30-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Added Class: Name=schematic
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4

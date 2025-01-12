@@ -1,0 +1,10 @@
+Change Component Description : Designator=L1 Old Description=CDRH127 Cu?n C?m Dán SMD 1280-680 68uH 3.2A New Description=CDRH127 Cu?n C?m Dán SMD 1280-680 68uH 3.2A
+Change Component Description : Designator=Q10 Old Description=Power MOSFET 200 mA, 50V, N-Channel SOT23 New Description=Power MOSFET 200 mA, 50V, N-Channel SOT23
+Change Component Description : Designator=Q11 Old Description=Power MOSFET 200 mA, 50V, N-Channel SOT23 New Description=Power MOSFET 200 mA, 50V, N-Channel SOT23
+Added Pin To Net: NetName=D6 Pin=Q18-3
+Added Pin To Net: NetName=D6 Pin=Q27-3
+Added Pin To Net: NetName=D6 Pin=Q36-3
+Added Pin To Net: NetName=D6 Pin=Q45-3
+Added Pin To Net: NetName=D6 Pin=Q54-3
+Added Pin To Net: NetName=D6 Pin=Q63-3
+Added Pin To Net: NetName=D6 Pin=Q72-3

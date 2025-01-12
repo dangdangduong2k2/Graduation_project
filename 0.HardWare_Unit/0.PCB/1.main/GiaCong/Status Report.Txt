@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:08:54 PM On 12/24/2024
+
+Output: BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [gpr.PrjPCB]
+   Generated File[2024-12-24 BOM gpr.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:09:04 PM On 12/24/2024

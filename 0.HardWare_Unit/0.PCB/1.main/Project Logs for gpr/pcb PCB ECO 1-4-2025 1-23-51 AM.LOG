@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=schematic Member=J1
+Added Component: Designator=P11(XH2.54_3P_RA)
+Add component (AddParameter): Name = "Code"; Value = "3509-011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP11_1 Pin=P11-1
+Added Pin To Net: NetName=NetP11_1 Pin=RL1-2
+Added Net: Name=NetP11_1
+Added Pin To Net: NetName=NetP11_2 Pin=P11-2
+Added Pin To Net: NetName=NetP11_2 Pin=RL1-1
+Added Net: Name=NetP11_2
+Added Pin To Net: NetName=NetP11_3 Pin=P11-3
+Added Pin To Net: NetName=NetP11_3 Pin=RL1-3
+Added Net: Name=NetP11_3
+Added Member To Class: ClassName=schematic Member=Component P11 XH2.54 3P
+Added Member To Class: ClassName=schematic Member=Component S1 SW-SMD
+Added Member To Class: ClassName=schematic Member=Component S2 SW-SMD

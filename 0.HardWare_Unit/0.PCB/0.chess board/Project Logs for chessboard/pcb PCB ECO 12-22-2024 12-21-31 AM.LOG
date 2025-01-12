@@ -1,0 +1,922 @@
+Added Component: Designator=C1(C8X12mm)
+Add component (AddParameter): Name = "Code"; Value = "1402-231"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C8X12mm)
+Add component (AddParameter): Name = "Code"; Value = "1402-228"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1436-100"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C_0805_SMD)
+Add component (AddParameter): Name = "Code"; Value = "1438-080"; VariantName = "[No Variations]"
+Added Component: Designator=CN1(CONN-TH_XT60PW-M)
+Added Component: Designator=D1(SOD80C_MFG)
+Add component (AddParameter): Name = "Code"; Value = "2001-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=D2(D_SMA)
+Add component (AddParameter): Name = "Code"; Value = "2005-008"; VariantName = "[No Variations]"
+Added Component: Designator=D3(D_SMA)
+Add component (AddParameter): Name = "Code"; Value = "2005-008"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SOD80C_MFG)
+Add component (AddParameter): Name = "Code"; Value = "2001-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SOD80C_MFG)
+Add component (AddParameter): Name = "Code"; Value = "2001-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SOD80C_MFG)
+Add component (AddParameter): Name = "Code"; Value = "2001-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=D7(SOD80C_MFG)
+Add component (AddParameter): Name = "Code"; Value = "2001-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=D8(SOD80C_MFG)
+Add component (AddParameter): Name = "Code"; Value = "2001-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=D9(SOD80C_MFG)
+Add component (AddParameter): Name = "Code"; Value = "2001-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=D10(SOD80C_MFG)
+Add component (AddParameter): Name = "Code"; Value = "2001-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SO_16)
+Add component (AddParameter): Name = "Code"; Value = "5001-017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "nhox"; VariantName = "[No Variations]"
+Added Component: Designator=L1(CDRH127)
+Add component (AddParameter): Name = "Code"; Value = "1522-003"; VariantName = "[No Variations]"
+Added Component: Designator=L_PW1(LED 0805 Red)
+Add component (AddParameter): Name = "Code"; Value = "8600-017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "TranLuyen"; VariantName = "[No Variations]"
+Added Component: Designator=P1(XH2.54_4P_RA)
+Add component (AddParameter): Name = "Code"; Value = "3509-012"; VariantName = "[No Variations]"
+Added Component: Designator=P2(Header Code Nuvoton 2.54 6P)
+Added Component: Designator=Q1(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q7(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q9(SOT23_N NXP)
+Add component (AddParameter): Name = "Code"; Value = "1701-070"; VariantName = "[No Variations]"
+Added Component: Designator=Q10(SOT23_N NXP)
+Add component (AddParameter): Name = "Code"; Value = "1901-076"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BSS138L"; VariantName = "[No Variations]"
+Added Component: Designator=Q11(SOT23_N NXP)
+Add component (AddParameter): Name = "Code"; Value = "1901-076"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BSS138L"; VariantName = "[No Variations]"
+Added Component: Designator=Q12(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q13(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q14(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q15(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q16(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q17(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q18(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q19(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q20(SOT23_N NXP)
+Add component (AddParameter): Name = "Code"; Value = "1701-070"; VariantName = "[No Variations]"
+Added Component: Designator=Q21(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q22(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q23(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q24(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q25(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q26(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q27(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q28(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q29(SOT23_N NXP)
+Add component (AddParameter): Name = "Code"; Value = "1701-070"; VariantName = "[No Variations]"
+Added Component: Designator=Q30(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q31(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q32(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q33(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q34(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q35(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q36(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q37(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q38(SOT23_N NXP)
+Add component (AddParameter): Name = "Code"; Value = "1701-070"; VariantName = "[No Variations]"
+Added Component: Designator=Q39(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q40(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q41(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q42(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q43(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q44(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q45(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q46(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q47(SOT23_N NXP)
+Add component (AddParameter): Name = "Code"; Value = "1701-070"; VariantName = "[No Variations]"
+Added Component: Designator=Q48(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q49(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q50(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q51(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q52(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q53(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q54(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q55(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q56(SOT23_N NXP)
+Add component (AddParameter): Name = "Code"; Value = "1701-070"; VariantName = "[No Variations]"
+Added Component: Designator=Q57(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q58(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q59(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q60(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q61(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q62(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q63(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q64(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q65(SOT23_N NXP)
+Add component (AddParameter): Name = "Code"; Value = "1701-070"; VariantName = "[No Variations]"
+Added Component: Designator=Q66(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q67(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q68(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q69(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q70(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q71(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q72(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q73(QTO-92)
+Add component (AddParameter): Name = "Code"; Value = "6110-015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Q74(SOT23_N NXP)
+Add component (AddParameter): Name = "Code"; Value = "1701-070"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-086"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Added Component: Designator=U1(TO-263-5)
+Add component (AddParameter): Name = "Code"; Value = "5101-052"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SO_16)
+Add component (AddParameter): Name = "Code"; Value = "5001-007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "nhox"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOG65_20)
+Add component (AddParameter): Name = "Code"; Value = "7201-019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+5 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+5 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+5 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+5 Pin=C6-2
+Added Pin To Net: NetName=+5 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=+5 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=CN1-1
+Added Pin To Net: NetName=GND Pin=CN1-3
+Added Pin To Net: NetName=GND Pin=CN1-4
+Added Pin To Net: NetName=+5 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=+5 Pin=D4-1
+Added Pin To Net: NetName=+5 Pin=D5-1
+Added Pin To Net: NetName=+5 Pin=D6-1
+Added Pin To Net: NetName=+5 Pin=D7-1
+Added Pin To Net: NetName=+5 Pin=D8-1
+Added Pin To Net: NetName=+5 Pin=D9-1
+Added Pin To Net: NetName=+5 Pin=D10-1
+Added Pin To Net: NetName=GND Pin=IC1-8
+Added Pin To Net: NetName=+5 Pin=IC1-10
+Added Pin To Net: NetName=GND Pin=IC1-13
+Added Pin To Net: NetName=+5 Pin=IC1-16
+Added Pin To Net: NetName=NetD3_2 Pin=L1-1
+Added Pin To Net: NetName=+5 Pin=L1-2
+Added Pin To Net: NetName=GND Pin=L_PW1-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=+3V3 Pin=P1-4
+Added Pin To Net: NetName=+5 Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-6
+Added Pin To Net: NetName=+5 Pin=Q1-1
+Added Pin To Net: NetName=+5 Pin=Q2-1
+Added Pin To Net: NetName=+5 Pin=Q3-1
+Added Pin To Net: NetName=+5 Pin=Q4-1
+Added Pin To Net: NetName=+5 Pin=Q5-1
+Added Pin To Net: NetName=+5 Pin=Q6-1
+Added Pin To Net: NetName=+5 Pin=Q7-1
+Added Pin To Net: NetName=+5 Pin=Q8-1
+Added Pin To Net: NetName=GND Pin=Q9-2
+Added Pin To Net: NetName=+3V3 Pin=Q10-1
+Added Pin To Net: NetName=+3V3 Pin=Q11-1
+Added Pin To Net: NetName=+5 Pin=Q12-1
+Added Pin To Net: NetName=+5 Pin=Q13-1
+Added Pin To Net: NetName=+5 Pin=Q14-1
+Added Pin To Net: NetName=+5 Pin=Q15-1
+Added Pin To Net: NetName=+5 Pin=Q16-1
+Added Pin To Net: NetName=+5 Pin=Q17-1
+Added Pin To Net: NetName=+5 Pin=Q18-1
+Added Pin To Net: NetName=+5 Pin=Q19-1
+Added Pin To Net: NetName=GND Pin=Q20-2
+Added Pin To Net: NetName=+5 Pin=Q21-1
+Added Pin To Net: NetName=+5 Pin=Q22-1
+Added Pin To Net: NetName=+5 Pin=Q23-1
+Added Pin To Net: NetName=+5 Pin=Q24-1
+Added Pin To Net: NetName=+5 Pin=Q25-1
+Added Pin To Net: NetName=+5 Pin=Q26-1
+Added Pin To Net: NetName=+5 Pin=Q27-1
+Added Pin To Net: NetName=+5 Pin=Q28-1
+Added Pin To Net: NetName=GND Pin=Q29-2
+Added Pin To Net: NetName=+5 Pin=Q30-1
+Added Pin To Net: NetName=+5 Pin=Q31-1
+Added Pin To Net: NetName=+5 Pin=Q32-1
+Added Pin To Net: NetName=+5 Pin=Q33-1
+Added Pin To Net: NetName=+5 Pin=Q34-1
+Added Pin To Net: NetName=+5 Pin=Q35-1
+Added Pin To Net: NetName=+5 Pin=Q36-1
+Added Pin To Net: NetName=+5 Pin=Q37-1
+Added Pin To Net: NetName=GND Pin=Q38-2
+Added Pin To Net: NetName=+5 Pin=Q39-1
+Added Pin To Net: NetName=+5 Pin=Q40-1
+Added Pin To Net: NetName=+5 Pin=Q41-1
+Added Pin To Net: NetName=+5 Pin=Q42-1
+Added Pin To Net: NetName=+5 Pin=Q43-1
+Added Pin To Net: NetName=+5 Pin=Q44-1
+Added Pin To Net: NetName=+5 Pin=Q45-1
+Added Pin To Net: NetName=+5 Pin=Q46-1
+Added Pin To Net: NetName=GND Pin=Q47-2
+Added Pin To Net: NetName=+5 Pin=Q48-1
+Added Pin To Net: NetName=+5 Pin=Q49-1
+Added Pin To Net: NetName=+5 Pin=Q50-1
+Added Pin To Net: NetName=+5 Pin=Q51-1
+Added Pin To Net: NetName=+5 Pin=Q52-1
+Added Pin To Net: NetName=+5 Pin=Q53-1
+Added Pin To Net: NetName=+5 Pin=Q54-1
+Added Pin To Net: NetName=+5 Pin=Q55-1
+Added Pin To Net: NetName=GND Pin=Q56-2
+Added Pin To Net: NetName=+5 Pin=Q57-1
+Added Pin To Net: NetName=+5 Pin=Q58-1
+Added Pin To Net: NetName=+5 Pin=Q59-1
+Added Pin To Net: NetName=+5 Pin=Q60-1
+Added Pin To Net: NetName=+5 Pin=Q61-1
+Added Pin To Net: NetName=+5 Pin=Q62-1
+Added Pin To Net: NetName=+5 Pin=Q63-1
+Added Pin To Net: NetName=+5 Pin=Q64-1
+Added Pin To Net: NetName=GND Pin=Q65-2
+Added Pin To Net: NetName=+5 Pin=Q66-1
+Added Pin To Net: NetName=+5 Pin=Q67-1
+Added Pin To Net: NetName=+5 Pin=Q68-1
+Added Pin To Net: NetName=+5 Pin=Q69-1
+Added Pin To Net: NetName=+5 Pin=Q70-1
+Added Pin To Net: NetName=+5 Pin=Q71-1
+Added Pin To Net: NetName=+5 Pin=Q72-1
+Added Pin To Net: NetName=+5 Pin=Q73-1
+Added Pin To Net: NetName=GND Pin=Q74-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=+5 Pin=R2-2
+Added Pin To Net: NetName=+5 Pin=R3-2
+Added Pin To Net: NetName=+3V3 Pin=R5-2
+Added Pin To Net: NetName=+3V3 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=+5 Pin=R22-1
+Added Pin To Net: NetName=NetD3_2 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=+5 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=+5 Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=+5 Pin=U3-9
+Added Pin To Net: NetName=+24IN Pin=CN1-2
+Added Pin To Net: NetName=+24IN Pin=D2-1
+Added Net: Name=+24IN
+Added Pin To Net: NetName=+24 Pin=C1-1
+Added Pin To Net: NetName=+24 Pin=C2-2
+Added Pin To Net: NetName=+24 Pin=D2-2
+Added Pin To Net: NetName=+24 Pin=R4-1
+Added Pin To Net: NetName=+24 Pin=U1-1
+Added Net: Name=+24
+Added Pin To Net: NetName=CLK_I Pin=U2-2
+Added Pin To Net: NetName=CLK_I Pin=U3-12
+Added Net: Name=CLK_I
+Added Pin To Net: NetName=CLK_O Pin=IC1-11
+Added Pin To Net: NetName=CLK_O Pin=U3-15
+Added Net: Name=CLK_O
+Added Pin To Net: NetName=D0 Pin=Q1-3
+Added Pin To Net: NetName=D0 Pin=Q12-3
+Added Pin To Net: NetName=D0 Pin=Q30-3
+Added Pin To Net: NetName=D0 Pin=Q39-3
+Added Pin To Net: NetName=D0 Pin=Q48-3
+Added Pin To Net: NetName=D0 Pin=Q57-3
+Added Pin To Net: NetName=D0 Pin=Q66-3
+Added Pin To Net: NetName=D0 Pin=U2-11
+Added Net: Name=D0
+Added Pin To Net: NetName=D1 Pin=Q2-3
+Added Pin To Net: NetName=D1 Pin=Q13-3
+Added Pin To Net: NetName=D1 Pin=Q22-3
+Added Pin To Net: NetName=D1 Pin=Q31-3
+Added Pin To Net: NetName=D1 Pin=Q40-3
+Added Pin To Net: NetName=D1 Pin=Q49-3
+Added Pin To Net: NetName=D1 Pin=Q58-3
+Added Pin To Net: NetName=D1 Pin=Q67-3
+Added Pin To Net: NetName=D1 Pin=U2-12
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=Q3-3
+Added Pin To Net: NetName=D2 Pin=Q14-3
+Added Pin To Net: NetName=D2 Pin=Q23-3
+Added Pin To Net: NetName=D2 Pin=Q32-3
+Added Pin To Net: NetName=D2 Pin=Q41-3
+Added Pin To Net: NetName=D2 Pin=Q50-3
+Added Pin To Net: NetName=D2 Pin=Q59-3
+Added Pin To Net: NetName=D2 Pin=Q68-3
+Added Pin To Net: NetName=D2 Pin=U2-13
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=Q4-3
+Added Pin To Net: NetName=D3 Pin=Q15-3
+Added Pin To Net: NetName=D3 Pin=Q24-3
+Added Pin To Net: NetName=D3 Pin=Q33-3
+Added Pin To Net: NetName=D3 Pin=Q42-3
+Added Pin To Net: NetName=D3 Pin=Q51-3
+Added Pin To Net: NetName=D3 Pin=Q60-3
+Added Pin To Net: NetName=D3 Pin=Q69-3
+Added Pin To Net: NetName=D3 Pin=U2-14
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=Q5-3
+Added Pin To Net: NetName=D4 Pin=Q16-3
+Added Pin To Net: NetName=D4 Pin=Q25-3
+Added Pin To Net: NetName=D4 Pin=Q34-3
+Added Pin To Net: NetName=D4 Pin=Q43-3
+Added Pin To Net: NetName=D4 Pin=Q52-3
+Added Pin To Net: NetName=D4 Pin=Q61-3
+Added Pin To Net: NetName=D4 Pin=Q70-3
+Added Pin To Net: NetName=D4 Pin=U2-3
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=Q6-3
+Added Pin To Net: NetName=D5 Pin=Q17-3
+Added Pin To Net: NetName=D5 Pin=Q26-3
+Added Pin To Net: NetName=D5 Pin=Q35-3
+Added Pin To Net: NetName=D5 Pin=Q44-3
+Added Pin To Net: NetName=D5 Pin=Q53-3
+Added Pin To Net: NetName=D5 Pin=Q62-3
+Added Pin To Net: NetName=D5 Pin=Q71-3
+Added Pin To Net: NetName=D5 Pin=U2-4
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=Q7-3
+Added Pin To Net: NetName=D6 Pin=U2-5
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=Q8-3
+Added Pin To Net: NetName=D7 Pin=Q19-3
+Added Pin To Net: NetName=D7 Pin=Q28-3
+Added Pin To Net: NetName=D7 Pin=Q37-3
+Added Pin To Net: NetName=D7 Pin=Q46-3
+Added Pin To Net: NetName=D7 Pin=Q55-3
+Added Pin To Net: NetName=D7 Pin=Q64-3
+Added Pin To Net: NetName=D7 Pin=Q73-3
+Added Pin To Net: NetName=D7 Pin=U2-6
+Added Net: Name=D7
+Added Pin To Net: NetName=DAT_I Pin=U2-9
+Added Pin To Net: NetName=DAT_I Pin=U3-11
+Added Net: Name=DAT_I
+Added Pin To Net: NetName=DAT_O Pin=IC1-14
+Added Pin To Net: NetName=DAT_O Pin=U3-14
+Added Net: Name=DAT_O
+Added Pin To Net: NetName=ICP_CLK Pin=P2-4
+Added Pin To Net: NetName=ICP_CLK Pin=U3-18
+Added Net: Name=ICP_CLK
+Added Pin To Net: NetName=ICP_DA Pin=P2-3
+Added Pin To Net: NetName=ICP_DA Pin=U3-8
+Added Net: Name=ICP_DA
+Added Pin To Net: NetName=LAT_I Pin=U2-1
+Added Pin To Net: NetName=LAT_I Pin=U3-10
+Added Net: Name=LAT_I
+Added Pin To Net: NetName=LAT_O Pin=IC1-12
+Added Pin To Net: NetName=LAT_O Pin=U3-13
+Added Net: Name=LAT_O
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q2-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q3-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q4-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q5-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q6-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q7-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q8-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q9-3
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=Q12-2
+Added Pin To Net: NetName=NetD4_2 Pin=Q13-2
+Added Pin To Net: NetName=NetD4_2 Pin=Q14-2
+Added Pin To Net: NetName=NetD4_2 Pin=Q15-2
+Added Pin To Net: NetName=NetD4_2 Pin=Q16-2
+Added Pin To Net: NetName=NetD4_2 Pin=Q17-2
+Added Pin To Net: NetName=NetD4_2 Pin=Q18-2
+Added Pin To Net: NetName=NetD4_2 Pin=Q19-2
+Added Pin To Net: NetName=NetD4_2 Pin=Q20-3
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=Q21-2
+Added Pin To Net: NetName=NetD5_2 Pin=Q22-2
+Added Pin To Net: NetName=NetD5_2 Pin=Q23-2
+Added Pin To Net: NetName=NetD5_2 Pin=Q24-2
+Added Pin To Net: NetName=NetD5_2 Pin=Q25-2
+Added Pin To Net: NetName=NetD5_2 Pin=Q26-2
+Added Pin To Net: NetName=NetD5_2 Pin=Q27-2
+Added Pin To Net: NetName=NetD5_2 Pin=Q28-2
+Added Pin To Net: NetName=NetD5_2 Pin=Q29-3
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=Q30-2
+Added Pin To Net: NetName=NetD6_2 Pin=Q31-2
+Added Pin To Net: NetName=NetD6_2 Pin=Q32-2
+Added Pin To Net: NetName=NetD6_2 Pin=Q33-2
+Added Pin To Net: NetName=NetD6_2 Pin=Q34-2
+Added Pin To Net: NetName=NetD6_2 Pin=Q35-2
+Added Pin To Net: NetName=NetD6_2 Pin=Q36-2
+Added Pin To Net: NetName=NetD6_2 Pin=Q37-2
+Added Pin To Net: NetName=NetD6_2 Pin=Q38-3
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=Q39-2
+Added Pin To Net: NetName=NetD7_2 Pin=Q40-2
+Added Pin To Net: NetName=NetD7_2 Pin=Q41-2
+Added Pin To Net: NetName=NetD7_2 Pin=Q42-2
+Added Pin To Net: NetName=NetD7_2 Pin=Q43-2
+Added Pin To Net: NetName=NetD7_2 Pin=Q44-2
+Added Pin To Net: NetName=NetD7_2 Pin=Q45-2
+Added Pin To Net: NetName=NetD7_2 Pin=Q46-2
+Added Pin To Net: NetName=NetD7_2 Pin=Q47-3
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=Q48-2
+Added Pin To Net: NetName=NetD8_2 Pin=Q49-2
+Added Pin To Net: NetName=NetD8_2 Pin=Q50-2
+Added Pin To Net: NetName=NetD8_2 Pin=Q51-2
+Added Pin To Net: NetName=NetD8_2 Pin=Q52-2
+Added Pin To Net: NetName=NetD8_2 Pin=Q53-2
+Added Pin To Net: NetName=NetD8_2 Pin=Q54-2
+Added Pin To Net: NetName=NetD8_2 Pin=Q55-2
+Added Pin To Net: NetName=NetD8_2 Pin=Q56-3
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=Q57-2
+Added Pin To Net: NetName=NetD9_2 Pin=Q58-2
+Added Pin To Net: NetName=NetD9_2 Pin=Q59-2
+Added Pin To Net: NetName=NetD9_2 Pin=Q60-2
+Added Pin To Net: NetName=NetD9_2 Pin=Q61-2
+Added Pin To Net: NetName=NetD9_2 Pin=Q62-2
+Added Pin To Net: NetName=NetD9_2 Pin=Q63-2
+Added Pin To Net: NetName=NetD9_2 Pin=Q64-2
+Added Pin To Net: NetName=NetD9_2 Pin=Q65-3
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=Q66-2
+Added Pin To Net: NetName=NetD10_2 Pin=Q67-2
+Added Pin To Net: NetName=NetD10_2 Pin=Q68-2
+Added Pin To Net: NetName=NetD10_2 Pin=Q69-2
+Added Pin To Net: NetName=NetD10_2 Pin=Q70-2
+Added Pin To Net: NetName=NetD10_2 Pin=Q71-2
+Added Pin To Net: NetName=NetD10_2 Pin=Q72-2
+Added Pin To Net: NetName=NetD10_2 Pin=Q73-2
+Added Pin To Net: NetName=NetD10_2 Pin=Q74-3
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=R11-2
+Added Net: Name=NetIC1_1
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Pin To Net: NetName=NetIC1_2 Pin=R12-2
+Added Net: Name=NetIC1_2
+Added Pin To Net: NetName=NetIC1_3 Pin=IC1-3
+Added Pin To Net: NetName=NetIC1_3 Pin=R13-2
+Added Net: Name=NetIC1_3
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_4 Pin=R15-2
+Added Net: Name=NetIC1_4
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_5 Pin=R16-2
+Added Net: Name=NetIC1_5
+Added Pin To Net: NetName=NetIC1_6 Pin=IC1-6
+Added Pin To Net: NetName=NetIC1_6 Pin=R17-2
+Added Net: Name=NetIC1_6
+Added Pin To Net: NetName=NetIC1_7 Pin=IC1-7
+Added Pin To Net: NetName=NetIC1_7 Pin=R18-2
+Added Net: Name=NetIC1_7
+Added Pin To Net: NetName=NetIC1_15 Pin=IC1-15
+Added Pin To Net: NetName=NetIC1_15 Pin=R10-2
+Added Net: Name=NetIC1_15
+Added Pin To Net: NetName=NetL_PW1_1 Pin=L_PW1-1
+Added Pin To Net: NetName=NetL_PW1_1 Pin=R4-2
+Added Net: Name=NetL_PW1_1
+Added Pin To Net: NetName=RST Pin=P2-5
+Added Pin To Net: NetName=RST Pin=R22-2
+Added Pin To Net: NetName=RST Pin=U3-4
+Added Net: Name=RST
+Added Pin To Net: NetName=RX3.3V Pin=P1-2
+Added Pin To Net: NetName=RX3.3V Pin=Q11-2
+Added Pin To Net: NetName=RX3.3V Pin=R6-1
+Added Net: Name=RX3.3V
+Added Pin To Net: NetName=RX5V Pin=Q11-3
+Added Pin To Net: NetName=RX5V Pin=R3-1
+Added Pin To Net: NetName=RX5V Pin=U3-3
+Added Net: Name=RX5V
+Added Pin To Net: NetName=T1 Pin=Q9-1
+Added Pin To Net: NetName=T1 Pin=R1-1
+Added Pin To Net: NetName=T1 Pin=R10-1
+Added Net: Name=T1
+Added Pin To Net: NetName=T2 Pin=Q20-1
+Added Pin To Net: NetName=T2 Pin=R7-1
+Added Pin To Net: NetName=T2 Pin=R11-1
+Added Net: Name=T2
+Added Pin To Net: NetName=T3 Pin=Q29-1
+Added Pin To Net: NetName=T3 Pin=R8-1
+Added Pin To Net: NetName=T3 Pin=R12-1
+Added Net: Name=T3
+Added Pin To Net: NetName=T4 Pin=Q38-1
+Added Pin To Net: NetName=T4 Pin=R9-1
+Added Pin To Net: NetName=T4 Pin=R13-1
+Added Net: Name=T4
+Added Pin To Net: NetName=T5 Pin=Q47-1
+Added Pin To Net: NetName=T5 Pin=R14-1
+Added Pin To Net: NetName=T5 Pin=R15-1
+Added Net: Name=T5
+Added Pin To Net: NetName=T6 Pin=Q56-1
+Added Pin To Net: NetName=T6 Pin=R16-1
+Added Pin To Net: NetName=T6 Pin=R19-1
+Added Net: Name=T6
+Added Pin To Net: NetName=T7 Pin=Q65-1
+Added Pin To Net: NetName=T7 Pin=R17-1
+Added Pin To Net: NetName=T7 Pin=R20-1
+Added Net: Name=T7
+Added Pin To Net: NetName=T8 Pin=Q74-1
+Added Pin To Net: NetName=T8 Pin=R18-1
+Added Pin To Net: NetName=T8 Pin=R21-1
+Added Net: Name=T8
+Added Pin To Net: NetName=TX3.3V Pin=P1-3
+Added Pin To Net: NetName=TX3.3V Pin=Q10-2
+Added Pin To Net: NetName=TX3.3V Pin=R5-1
+Added Net: Name=TX3.3V
+Added Pin To Net: NetName=TX5V Pin=Q10-3
+Added Pin To Net: NetName=TX5V Pin=R2-1
+Added Pin To Net: NetName=TX5V Pin=U3-2
+Added Net: Name=TX5V
+Added Member To Class: ClassName=schematic Member=Component C1 470uF/35V
+Added Member To Class: ClassName=schematic Member=Component C2 104
+Added Member To Class: ClassName=schematic Member=Component C3 220uF/35V
+Added Member To Class: ClassName=schematic Member=Component C4 104
+Added Member To Class: ClassName=schematic Member=Component C5 104
+Added Member To Class: ClassName=schematic Member=Component C6 104
+Added Member To Class: ClassName=schematic Member=Component C7 10uF/25V
+Added Member To Class: ClassName=schematic Member=Component C8 104
+Added Member To Class: ClassName=schematic Member=Component CN1 XT60PW-M
+Added Member To Class: ClassName=schematic Member=Component D1 LL4148
+Added Member To Class: ClassName=schematic Member=Component D2 SS34
+Added Member To Class: ClassName=schematic Member=Component D3 SS34
+Added Member To Class: ClassName=schematic Member=Component D4 LL4148
+Added Member To Class: ClassName=schematic Member=Component D5 LL4148
+Added Member To Class: ClassName=schematic Member=Component D6 LL4148
+Added Member To Class: ClassName=schematic Member=Component D7 LL4148
+Added Member To Class: ClassName=schematic Member=Component D8 LL4148
+Added Member To Class: ClassName=schematic Member=Component D9 LL4148
+Added Member To Class: ClassName=schematic Member=Component D10 LL4148
+Added Member To Class: ClassName=schematic Member=Component IC1 74HC595
+Added Member To Class: ClassName=schematic Member=Component L1 68uH
+Added Member To Class: ClassName=schematic Member=Component L_PW1 LED RED
+Added Member To Class: ClassName=schematic Member=Component P1 XH2.54 4P
+Added Member To Class: ClassName=schematic Member=Component P2 Nuvoton
+Added Member To Class: ClassName=schematic Member=Component Q1 A3144
+Added Member To Class: ClassName=schematic Member=Component Q2 A3144
+Added Member To Class: ClassName=schematic Member=Component Q3 A3144
+Added Member To Class: ClassName=schematic Member=Component Q4 A3144
+Added Member To Class: ClassName=schematic Member=Component Q5 A3144
+Added Member To Class: ClassName=schematic Member=Component Q6 A3144
+Added Member To Class: ClassName=schematic Member=Component Q7 A3144
+Added Member To Class: ClassName=schematic Member=Component Q8 A3144
+Added Member To Class: ClassName=schematic Member=Component Q9 S8050
+Added Member To Class: ClassName=schematic Member=Component Q10 BSS138L
+Added Member To Class: ClassName=schematic Member=Component Q11 BSS138L
+Added Member To Class: ClassName=schematic Member=Component Q12 A3144
+Added Member To Class: ClassName=schematic Member=Component Q13 A3144
+Added Member To Class: ClassName=schematic Member=Component Q14 A3144
+Added Member To Class: ClassName=schematic Member=Component Q15 A3144
+Added Member To Class: ClassName=schematic Member=Component Q16 A3144
+Added Member To Class: ClassName=schematic Member=Component Q17 A3144
+Added Member To Class: ClassName=schematic Member=Component Q18 A3144
+Added Member To Class: ClassName=schematic Member=Component Q19 A3144
+Added Member To Class: ClassName=schematic Member=Component Q20 S8050
+Added Member To Class: ClassName=schematic Member=Component Q21 A3144
+Added Member To Class: ClassName=schematic Member=Component Q22 A3144
+Added Member To Class: ClassName=schematic Member=Component Q23 A3144
+Added Member To Class: ClassName=schematic Member=Component Q24 A3144
+Added Member To Class: ClassName=schematic Member=Component Q25 A3144
+Added Member To Class: ClassName=schematic Member=Component Q26 A3144
+Added Member To Class: ClassName=schematic Member=Component Q27 A3144
+Added Member To Class: ClassName=schematic Member=Component Q28 A3144
+Added Member To Class: ClassName=schematic Member=Component Q29 S8050
+Added Member To Class: ClassName=schematic Member=Component Q30 A3144
+Added Member To Class: ClassName=schematic Member=Component Q31 A3144
+Added Member To Class: ClassName=schematic Member=Component Q32 A3144
+Added Member To Class: ClassName=schematic Member=Component Q33 A3144
+Added Member To Class: ClassName=schematic Member=Component Q34 A3144
+Added Member To Class: ClassName=schematic Member=Component Q35 A3144
+Added Member To Class: ClassName=schematic Member=Component Q36 A3144
+Added Member To Class: ClassName=schematic Member=Component Q37 A3144
+Added Member To Class: ClassName=schematic Member=Component Q38 S8050
+Added Member To Class: ClassName=schematic Member=Component Q39 A3144
+Added Member To Class: ClassName=schematic Member=Component Q40 A3144
+Added Member To Class: ClassName=schematic Member=Component Q41 A3144
+Added Member To Class: ClassName=schematic Member=Component Q42 A3144
+Added Member To Class: ClassName=schematic Member=Component Q43 A3144
+Added Member To Class: ClassName=schematic Member=Component Q44 A3144
+Added Member To Class: ClassName=schematic Member=Component Q45 A3144
+Added Member To Class: ClassName=schematic Member=Component Q46 A3144
+Added Member To Class: ClassName=schematic Member=Component Q47 S8050
+Added Member To Class: ClassName=schematic Member=Component Q48 A3144
+Added Member To Class: ClassName=schematic Member=Component Q49 A3144
+Added Member To Class: ClassName=schematic Member=Component Q50 A3144
+Added Member To Class: ClassName=schematic Member=Component Q51 A3144
+Added Member To Class: ClassName=schematic Member=Component Q52 A3144
+Added Member To Class: ClassName=schematic Member=Component Q53 A3144
+Added Member To Class: ClassName=schematic Member=Component Q54 A3144
+Added Member To Class: ClassName=schematic Member=Component Q55 A3144
+Added Member To Class: ClassName=schematic Member=Component Q56 S8050
+Added Member To Class: ClassName=schematic Member=Component Q57 A3144
+Added Member To Class: ClassName=schematic Member=Component Q58 A3144
+Added Member To Class: ClassName=schematic Member=Component Q59 A3144
+Added Member To Class: ClassName=schematic Member=Component Q60 A3144
+Added Member To Class: ClassName=schematic Member=Component Q61 A3144
+Added Member To Class: ClassName=schematic Member=Component Q62 A3144
+Added Member To Class: ClassName=schematic Member=Component Q63 A3144
+Added Member To Class: ClassName=schematic Member=Component Q64 A3144
+Added Member To Class: ClassName=schematic Member=Component Q65 S8050
+Added Member To Class: ClassName=schematic Member=Component Q66 A3144
+Added Member To Class: ClassName=schematic Member=Component Q67 A3144
+Added Member To Class: ClassName=schematic Member=Component Q68 A3144
+Added Member To Class: ClassName=schematic Member=Component Q69 A3144
+Added Member To Class: ClassName=schematic Member=Component Q70 A3144
+Added Member To Class: ClassName=schematic Member=Component Q71 A3144
+Added Member To Class: ClassName=schematic Member=Component Q72 A3144
+Added Member To Class: ClassName=schematic Member=Component Q73 A3144
+Added Member To Class: ClassName=schematic Member=Component Q74 S8050
+Added Member To Class: ClassName=schematic Member=Component R1 1k
+Added Member To Class: ClassName=schematic Member=Component R2 10K
+Added Member To Class: ClassName=schematic Member=Component R3 10K
+Added Member To Class: ClassName=schematic Member=Component R4 10K
+Added Member To Class: ClassName=schematic Member=Component R5 10K
+Added Member To Class: ClassName=schematic Member=Component R6 10K
+Added Member To Class: ClassName=schematic Member=Component R7 1k
+Added Member To Class: ClassName=schematic Member=Component R8 1k
+Added Member To Class: ClassName=schematic Member=Component R9 1k
+Added Member To Class: ClassName=schematic Member=Component R10 1k
+Added Member To Class: ClassName=schematic Member=Component R11 1k
+Added Member To Class: ClassName=schematic Member=Component R12 1k
+Added Member To Class: ClassName=schematic Member=Component R13 1k
+Added Member To Class: ClassName=schematic Member=Component R14 1k
+Added Member To Class: ClassName=schematic Member=Component R15 1k
+Added Member To Class: ClassName=schematic Member=Component R16 1k
+Added Member To Class: ClassName=schematic Member=Component R17 1k
+Added Member To Class: ClassName=schematic Member=Component R18 1k
+Added Member To Class: ClassName=schematic Member=Component R19 1k
+Added Member To Class: ClassName=schematic Member=Component R20 1k
+Added Member To Class: ClassName=schematic Member=Component R21 1k
+Added Member To Class: ClassName=schematic Member=Component R22 10K
+Added Member To Class: ClassName=schematic Member=Component U1 LM2596HVS-5.0
+Added Member To Class: ClassName=schematic Member=Component U2 74HC165
+Added Member To Class: ClassName=schematic Member=Component U3 MS51FB9AE
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4

@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=SIG Pin=P11-1
+Removed Pin From Net: NetName=5VS Pin=P11-2
+Removed Pin From Net: NetName=GND Pin=P11-3
+Removed Member From Class: ClassName=schematic Member=P11
+Added Component: Designator=D7(SOD80C_MFG)
+Add component (AddParameter): Name = "Code"; Value = "2001-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Nhox"; VariantName = "[No Variations]"
+Added Component: Designator=J1(CONN KF-5.08-3P-R + 3d)
+Add component (AddParameter): Name = "Code"; Value = "3524-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "TranLuyen"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED 0805 Red)
+Add component (AddParameter): Name = "Code"; Value = "8600-017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "TranLuyen"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT23_N NXP)
+Add component (AddParameter): Name = "Code"; Value = "1701-070"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-103"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-094"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RES-SMD-0805)
+Add component (AddParameter): Name = "Code"; Value = "1024-111"; VariantName = "[No Variations]"
+Added Component: Designator=RL1(Relay 5 pin 10A)
+Add component (AddParameter): Name = "Code"; Value = "2404-012"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5VS Pin=D7-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=5VS Pin=R3-1
+Added Pin To Net: NetName=SIG Pin=R32-2
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=SIG Pin=R33-2
+Added Pin To Net: NetName=5VS Pin=RL1-5
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=LED1-2
+Added Pin To Net: NetName=NetD7_2 Pin=Q1-3
+Added Pin To Net: NetName=NetD7_2 Pin=RL1-4
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=RL1-2
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=RL1-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=RL1-3
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R3-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R32-1
+Added Net: Name=NetQ1_1
+Added Member To Class: ClassName=schematic Member=Component D7 LL4148
+Added Member To Class: ClassName=schematic Member=Component J1 KF-5.08 3P
+Added Member To Class: ClassName=schematic Member=Component LED1 LED RED
+Added Member To Class: ClassName=schematic Member=Component Q1 S8050
+Added Member To Class: ClassName=schematic Member=Component R3 4.7K
+Added Member To Class: ClassName=schematic Member=Component R32 2.2k
+Added Member To Class: ClassName=schematic Member=Component R33 10K
+Added Member To Class: ClassName=schematic Member=Component RL1 Relay 10A/24V
+Added Member To Class: ClassName=schematic Member=Component S1 SW-SMD
+Added Member To Class: ClassName=schematic Member=Component S2 SW-SMD

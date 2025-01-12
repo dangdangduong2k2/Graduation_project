@@ -1,1 +1,1 @@
-3D printable robotic arm claw gripper by Juergenlessner on Thingiverse: https://www.thingiverse.com/thing:969447
+Arduino Robotic Arm (OPEN SOURCE) + Python control APP + EXTRAS by jjrobots on Thingiverse: https://www.thingiverse.com/thing:4579405

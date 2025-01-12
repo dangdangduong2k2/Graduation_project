@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetD7_2 Pin=LED1-2
+Removed Pin From Net: NetName=5VS Pin=R3-1
+Removed Member From Class: ClassName=schematic Member=LED1
+Removed Member From Class: ClassName=schematic Member=R3
+Added Member To Class: ClassName=schematic Member=Component S1 SW-SMD
+Added Member To Class: ClassName=schematic Member=Component S2 SW-SMD
